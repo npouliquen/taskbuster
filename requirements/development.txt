@@ -1,2 +1,3 @@
 -r base.txt:
 -r base.txt
+pytz==2016.6.1
